@@ -17,6 +17,11 @@ a {
   box-sizing: border-box;
 }
 
+svg{
+  width: 20px;
+  height: 20px;
+}
+
 :root{
   --black: #3b434e;
   --gray-light: #ebebeb;
